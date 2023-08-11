@@ -1,0 +1,13 @@
+.header {
+  background-color: rgb(0, 0, 97);
+  padding: 12px 24px;
+}
+
+.header nav ul {
+  display: flex;
+  gap: 16px;
+}
+
+.header nav ul li {
+  list-style: none;
+}
